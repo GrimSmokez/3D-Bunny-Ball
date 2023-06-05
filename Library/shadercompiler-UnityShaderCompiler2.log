@@ -1,0 +1,7 @@
+Base path: /private/var/folders/df/ffv2wg9x0v9bgv37rxyt_fn80000gv/T/AppTranslocation/8FA539AC-3A24-4DC6-BE6F-462329B2793E/d/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=1897 outsize=1997 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1997 outsize=3517 ok=1
+Cmd: initializeCompiler
